@@ -85,7 +85,7 @@ main {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-bottom: 179px;
+  margin-bottom: 181px;
 }
 .overlay {
   position: absolute;
@@ -168,7 +168,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 891px 27px 40px;
+  margin: 0px 891px 0px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -185,6 +185,8 @@ main {
 .lots__card-list-item {
   width: 334px;
   height: 563px;
+  margin-top: 27px;
+  margin-bottom: 55px;
 }
 
 .card-link {
