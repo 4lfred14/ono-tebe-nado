@@ -1,7 +1,7 @@
 main {
   display: flex;
   flex-direction: column;
-  gap: 179px;
+  gap: 146px;
 }
 
 .header {
@@ -29,11 +29,17 @@ main {
 .header__link {
   font-size: 18px;
   white-space: nowrap;
+  
+}
+
+.text-link {
+  font-style: normal;
 }
 
 .text-link:hover {
   background-color: black;
   color: white;
+
 }
 
 .header__link_active {
@@ -44,8 +50,7 @@ main {
   display: block;
   width: 140px;
   height: 148px;
-  
-  
+  margin-left: 36px;
 }
 
 .header__logo-image {
@@ -102,7 +107,7 @@ main {
   font-weight: bold;
   letter-spacing: 30px;
   text-transform: uppercase;
-  padding: 176px 50px 0px 50px;
+  padding: 165px 50px 0px 50px;
 }
 
 .align-text {
@@ -138,7 +143,7 @@ main {
   text-transform: uppercase;
   word-spacing: 18px;
   color: white;
-  margin: 136px 0px 62px 78px;
+  margin: 147px 79px 62px 78px;
 }
 
 .button {
@@ -151,14 +156,13 @@ main {
   text-transform: uppercase;
   background-color: transparent;
   color: white;
-  margin: 124px 50px 51px 79px;
+  margin: 135px 50px 51px 0px;
 }
 
 .lots {
   width: 1052px;
   height: 692px;
   margin: 0px 24px 0px 24px;
-  padding-top: 3px;
 }
 
 .lots__heading {
@@ -269,7 +273,7 @@ main {
   height: 240px;
   border-radius: 50%;
   background-color: black;
-  margin: 35px 72px 320px 47px;
+  margin: 35px 0px 320px 47px;
 }
 
 .about__logo-image {
@@ -302,6 +306,10 @@ main {
   width: 1000px;
   height: 98px;
   margin: 0px 50px 88px 50px;
+  font-style: inherit;
+}
+.footer__address-maps {
+  font-style: normal;
 }
 
 .footer__menu-list {
@@ -311,12 +319,14 @@ main {
   text-underline-position: under;
   list-style: none;
   
+  
 }
 
 .footer__social-list {
-  grid-column: 3;
   display: flex;
+  align-items: start;
   gap: 48px;
+  justify-content: flex-end;
 
 }  
 
@@ -330,3 +340,4 @@ main {
 .footer__logo-yt {
   width: 48px;
 }
+
