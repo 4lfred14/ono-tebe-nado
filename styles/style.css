@@ -51,7 +51,7 @@ main {
   display: block;
   width: 140px;
   height: 148px;
-  margin-left: 36px;
+  margin-right: 184px;
 }
 
 .header__logo-image {
@@ -64,7 +64,7 @@ main {
 
   width: 240.52px;
   height: 98px;
-  margin: 5px 25.48px 2px 0px;
+  margin: 5px 25px 2px 0px;
 }
 
 .address__item {
@@ -85,7 +85,7 @@ main {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-bottom: 181px;
+  margin-bottom: 184px;
 }
 .overlay {
   position: absolute;
@@ -108,8 +108,8 @@ main {
   font-weight: bold;
   letter-spacing: 30px;
   text-transform: uppercase;
-  padding: 165px 50px 0px 50px;
-  line-height: 1.15;
+  margin: 165px 50px 0px 50px;
+  line-height: 1.25;
 }
 
 .align-text {
@@ -137,7 +137,8 @@ main {
   z-index: 1;
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  
+  
 }
 
 .cover__description-text {
@@ -145,7 +146,9 @@ main {
   text-transform: uppercase;
   word-spacing: 18px;
   color: white;
-  margin: 147px 79px 62px 78px;
+  margin: 135px 79px 62px 78px;
+  
+ 
 }
 
 .button {
@@ -241,6 +244,7 @@ main {
   font-size: 20px;
   margin: 0px 40px 48px 40px;
   color: white;
+  
 }
 
 .lots__look-more-link {
