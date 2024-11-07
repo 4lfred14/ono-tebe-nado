@@ -45,18 +45,10 @@ main {
   text-decoration: none;
 }
 
-.header__logo {
-  display: block;
+.header__logo-image {
   width: 140px;
   height: 148px;
-  margin-left: 36px;
-  margin-right: 184px;
-}
-
-.header__logo-image {
-  width: 100%;
   display: block;
-  height: 148px;
   margin-left: 36px;
   margin-right: 184px;
 }
