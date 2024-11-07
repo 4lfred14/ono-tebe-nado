@@ -6,13 +6,13 @@ main {
 .header {
   display: grid;
   grid-template-columns: 1.5fr 2fr 1.5fr;
+  margin: 0px;
   padding: 92px 24px 96px 24px;
 }
 
 .header__links-list {
   display: flex;
   gap: 24px;
-  margin: 44px 36px 39px 26.52px;
 }
 
 .header__links-list-item {
@@ -56,7 +56,6 @@ main {
 .header__logo-image {
   width: 100%;
   display: block;
-  width: 140px;
   height: 148px;
   margin-left: 36px;
   margin-right: 184px;
@@ -231,7 +230,6 @@ main {
   font-size: 20px;
   margin: 0px 40px 48px 40px;
   color: white;
-  text-decoration: none;
 }
 
 .lots__look-more-link {
