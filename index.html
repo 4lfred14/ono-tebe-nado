@@ -28,17 +28,15 @@
         </ul>
       </nav>
       <!--Логотип-->
-      <div class="header__logo">
-        <a>
+      <div>
         <img
           class="header__logo-image"
-          src="images/logo-black.svg"
+          src="./images/logo-black.svg"
           alt="Логотип с тексто 'Оно тебе надо'"
         />
-        </a>
       </div>
       <!--Адрес-->
-      <address class="header__address">
+      <address class="address">
         <a class="address__item text-link" href="tel:+99995555555"
           >+9 999 555 5555
         </a>
@@ -69,14 +67,12 @@
             ></span
           >
         </h1>
-        <div>
           <div class="cover__description">
             <p class="cover__description-text">
               Аукцион вещей, в которые никто не верил
             </p>
-            <button class="button">Сделать ставку</button>
+            <button class="button" type="submit">Сделать ставку</button>
           </div>
-        </div>
       </section>
       <!--Конец области мазюк краски-->
       <!--Начало карточек-->
@@ -144,7 +140,7 @@
           <div class="about__logo">
             <img
               class="about__logo-image"
-              src="../ono-tebe-nado/images/logo-white.svg"
+              src="./images/logo-white.svg"
               alt="логотип в кружке с надписью оно тебе надо"
             />
           </div>
@@ -175,7 +171,7 @@
     </main>
     <!--Подвал-->
     <footer class="footer__menu-section">
-      <address class="footer__address">
+      <address class="address">
         <a class="address__item text-link" href="tel:+99995555555"
           >+9 999 555 5555</a
         >
@@ -188,7 +184,8 @@
       </address>
       <nav class="footer__menu">
         <ul class="footer__menu-list">
-          <li class="footer__links-list-item_no-bullit">главная</li>
+          <li class="footer__menu-item"></li>
+            <a class="footer__links-list-item_no-bullit" href="#">главная</a>
           <li class="footer__menu-item">
             <a class="footer__menu-link" href="#">посмотреть лоты</a>
           </li>
@@ -197,24 +194,29 @@
           </li>
         </ul>
       </nav>
-        <a class="footer__social-list">
+        <div class="footer__social-list">
+         <a href="https://www.youtube.com/"> 
           <img
-            class="footer__logo-image"
-            src="../ono-tebe-nado/images/yt.svg"
+            class="footer__logo Youtube"
+            src="./images/yt.svg"
             alt="логотип ютуба"
           />
+        </a>
+        <a href="https://vk.com/">
           <img
-            class="footer__social-vk"
-            src="../ono-tebe-nado/images/vk.svg"
+            class="footer__logo VK"
+            src="./images/vk.svg"
             alt="логотип вк"
           />
+        </a>
+        <a href="https://ru.pinterest.com/">
           <img
-            class="footer__logo-yt"
-            src="../ono-tebe-nado/images/pinterest.svg"
+            class="footer__logo Pinteres"
+            src="./images/pinterest.svg"
             alt="логотип пинтерес"
           />
         </a>
-      
+        </div>
     </footer>
   </body>
 </html>
