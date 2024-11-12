@@ -8,12 +8,12 @@ main {
   grid-template-columns: 1.5fr 2fr 1.5fr;
   margin: 92px 24px 96px 24px;
   align-items: center;
-  justify-items: center;
 }
 
 .header__links-list {
   display: flex;
   gap: 24px;
+  padding: 44px 36px 39px 26.5px;
 }
 
 .header__links-list-item {
@@ -28,9 +28,7 @@ main {
 
 .header__link {
   font-size: 18px;
-  white-space: nowrap;
-  margin-left: 26.5px;
-  
+  white-space: nowrap;  
 }
 
 .text-link {
@@ -47,7 +45,7 @@ main {
 }
 
 .header__logo-image {
-  margin: 0px 184px 0px 36px;
+  margin: 0px 184px 0px 25px;
   width: 140px;
   height: 148px;
   display: block;
@@ -58,6 +56,7 @@ main {
   font-size: 18px;
   text-underline-position: under;
   line-height: 1.35;
+
 }
 
 .address__address-text {
