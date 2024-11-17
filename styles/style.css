@@ -11,13 +11,13 @@ main {
 .header {
   display: grid;
   grid-template-columns: 1.5fr 2fr 1.5fr;
-  margin: 92px 24px 96px 24px;
+  margin: 92px 24px 70px 24px;
   align-items: center;
 }
 
 .header__links-list {
   display: flex;
-  gap: 27px;
+  gap: 34px;
   padding: 44px 36px 39px 26.5px;
 }
 
@@ -50,22 +50,11 @@ main {
 }
 
 .header__logo-image {
-  margin: 0px 184px 0px 20px;
   width: 140px;
   height: 148px;
   display: block;
 }
-.address {
-  justify-self: end;
-  max-width: 270px;
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  font-style: normal;
-  line-height: 137%;
-  letter-spacing: 0.03em;
-  padding-right: 25px;
-}
+
 .address__item {
   display: block;
   font-size: 18px;
@@ -147,7 +136,7 @@ main {
   text-transform: uppercase;
   word-spacing: 18px;
   color: white;
-  margin: 147px 79px 0px 0px;
+  margin: 132px 79px 0px 0px;
 }
 
 .button {
@@ -160,7 +149,7 @@ main {
   text-transform: uppercase;
   background-color: transparent;
   color: white;
-  margin: 135px 0px 0px 0px;
+  margin-top: 120px;
 }
 
 .lots {
@@ -279,7 +268,7 @@ main {
 }
 /*блок заголовка и текста*/
 .about__title {
-  margin: 133px 0px 13px 0px;
+  margin: 140px 0px 13px 0px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -293,6 +282,7 @@ main {
   font-size: 20px;
   line-height: normal;
   margin-top: 100px;
+  letter-spacing: 0.1px;
 }
 
 .footer__menu-section {
