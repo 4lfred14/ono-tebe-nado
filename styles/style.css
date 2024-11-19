@@ -164,7 +164,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 0px 35px 40px;
+  margin: 0px 0px 32px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -177,10 +177,6 @@ main {
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 25px;
   row-gap: 27px;
-}
-
-.lots__card-list-item {
-  width: 334px;
 }
 
 .card-link {
@@ -311,8 +307,8 @@ main {
   font-size: 18px;
 }
 
-.footer__menu-link_active{
-text-decoration: none;
+.footer__menu-link_active {
+  text-decoration: none;
 }
 
 .footer__social-list {
