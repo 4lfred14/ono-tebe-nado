@@ -10,7 +10,7 @@ main {
 
 .header {
   display: grid;
-  grid-template-columns: 1fr 1.22fr 1fr;
+  grid-template-columns: 1fr 1.25fr 1fr;
   margin: 88px 24px 96px 24px;
   align-items: center;
 }
@@ -18,7 +18,7 @@ main {
 .header__links-list {
   display: flex;
   gap: 34px;
-  padding: 44px 36px 39px 26px;
+  padding: 44px 37px 39px 25px;
 }
 
 .header__links-list-item {
@@ -165,7 +165,7 @@ main {
 }
 
 .lots__heading {
-  margin: 8px 891px 28px 40px;
+  margin: 8px 891px 27px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -289,7 +289,6 @@ main {
   font-size: 20px;
   line-height: normal;
   margin-top: 100px;
-  letter-spacing: 0.1px;
 }
 
 .footer__menu-section {
