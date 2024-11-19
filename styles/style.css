@@ -18,7 +18,7 @@ main {
 .header__links-list {
   display: flex;
   gap: 34px;
-  padding: 44px 37px 39px 25px;
+  padding: 44px 36px 39px 26.5px;
 }
 
 .header__links-list-item {
@@ -74,7 +74,7 @@ main {
   position: relative;
   width: 100%;
   min-height: 757px;
-  padding: 161px 48px 51px 48px;
+  padding: 165px 50px 51px 50px;
   background-image: url(../images/cover.jpg);
   background-position: center;
   background-size: cover;
