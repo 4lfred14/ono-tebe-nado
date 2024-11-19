@@ -12,7 +12,6 @@ main {
   display: grid;
   grid-template-columns: 1fr 1.23fr 1fr;
   margin: 88px 24px 95px 24px;
-  padding-top: 5px;
   align-items: center;
 }
 
