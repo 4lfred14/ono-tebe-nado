@@ -160,12 +160,12 @@ main {
 
 .lots {
   width: 1052px;
-  margin: 0px 24px 144px 24px;
+  margin: 0px 24px 142px 24px;
   min-height: 563px;
 }
 
 .lots__heading {
-  margin: 8px 891px 30px 40px;
+  margin: 8px 891px 28px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
