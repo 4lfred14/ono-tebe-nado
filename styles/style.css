@@ -222,7 +222,7 @@ main {
   text-transform: uppercase;
   text-underline-offset:4px;
   text-decoration-thickness: 1px;
-  padding: 45px 40px 0px 40px;
+  padding: 45px 40px 5px 40px;
   color: white;
 }
 
