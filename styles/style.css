@@ -164,7 +164,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 0px 30px 40px;
+  margin: 0px 0px 31px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -176,7 +176,7 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 25px;
-  row-gap: 27px;
+  row-gap: 25px;
 }
 
 .card-link {
@@ -245,7 +245,7 @@ main {
   display: grid;
   grid-template-columns: 359px 1fr;
   width: 1052px;
-  margin: 0px 24px 178px 24px;
+  margin: 0px 24px 176px 24px;
 }
 
 .about__column {
