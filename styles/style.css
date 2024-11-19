@@ -11,7 +11,7 @@ main {
 .header {
   display: grid;
   grid-template-columns: 1fr 1.25fr 1fr;
-  margin: 92px 24px 96px 24px;
+  margin: 92px 24px 87px 24px;
   align-items: center;
 }
 
@@ -75,7 +75,7 @@ main {
   position: relative;
   width: 100%;
   min-height: 757px;
-  padding: 155px 50px 51px 50px;
+  padding: 165px 50px 51px 50px;
   background-image: url(../images/cover.jpg);
   background-position: center;
   background-size: cover;
@@ -163,7 +163,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 891px 27px 40px;
+  margin: 8px 891px 27px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
