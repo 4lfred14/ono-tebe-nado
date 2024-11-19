@@ -195,7 +195,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
   width: 334px;
-  min-height: 563px;
+  max-height: 563px;
   height: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -241,6 +241,7 @@ main {
   margin: 29px 820px 2px 40px;
   font-size: 20px;
   text-decoration-line: underline;
+  text-decoration-thickness: 1px;
   text-underline-position: under;
   width: fit-content;
 }
