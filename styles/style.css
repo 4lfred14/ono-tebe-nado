@@ -11,7 +11,7 @@ main {
 .header {
   display: grid;
   grid-template-columns: 1fr 1.25fr 1fr;
-  margin: 92px 24px 96px 24px;
+  margin: 88px 24px 96px 24px;
   align-items: center;
 }
 
@@ -57,7 +57,7 @@ main {
 .address {
   padding-top: 5px;
   font-style: normal;
- }
+}
 
 .address__item {
   display: block;
@@ -82,6 +82,7 @@ main {
   background-repeat: no-repeat;
   margin-bottom: 175px;
 }
+
 .overlay {
   position: absolute;
   top: 0px;
@@ -120,6 +121,7 @@ main {
   text-align: right;
   line-height: 1;
 }
+
 .letter-spacing-extended {
   letter-spacing: 60px;
 }
@@ -176,7 +178,6 @@ main {
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 25px;
   row-gap: 27px;
-
 }
 
 .lots__card-list-item {
@@ -313,9 +314,8 @@ main {
   display: flex;
   gap: 48px;
   justify-content: flex-end;
-}  
+}
 
 .footer__logo {
   width: 48px;
 }
-
