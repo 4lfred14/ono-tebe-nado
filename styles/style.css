@@ -10,7 +10,7 @@ main {
 
 .header {
   display: grid;
-  grid-template-columns: 1fr 1.25fr 1fr;
+  grid-template-columns: 1fr 1.23fr 1fr;
   margin: 88px 24px 95px 24px;
   align-items: center;
 }
@@ -55,7 +55,7 @@ main {
 }
 
 .address {
-  padding-top: 5px;
+  padding-top: 7px;
   font-style: normal;
 }
 
@@ -221,7 +221,7 @@ main {
   text-transform: uppercase;
   text-underline-offset:4px;
   text-decoration-thickness: 1px;
-  padding: 40px 40px 0px 40px;
+  padding: 51px 40px 0px 40px;
   color: white;
 }
 
