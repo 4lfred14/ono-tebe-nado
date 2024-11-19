@@ -160,7 +160,7 @@ main {
 
 .lots {
   width: 1052px;
-  margin: 0px 24px 144px 24px;
+  margin: 0px 24px 143px 24px;
 }
 
 .lots__heading {
@@ -191,7 +191,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
   width: 334px;
-  min-height: 563;
+  min-height: 563px;
   height: 100%;
   background-repeat: no-repeat;
   background-position: center;
