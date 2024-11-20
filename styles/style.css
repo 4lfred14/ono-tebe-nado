@@ -57,8 +57,11 @@ main {
 }
 
 .address {
-  padding-top: 2.5px;
   font-style: normal;
+}
+
+.header__address {
+  padding-top: 5px;
 }
 
 .address__item {
