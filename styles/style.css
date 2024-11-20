@@ -18,7 +18,7 @@ main {
 .header__links-list {
   display: flex;
   gap: 32px;
-  padding: 44px 37px 39px 25px;
+  padding: 44px 37px 39px 27px;
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;
 }
@@ -62,7 +62,7 @@ main {
 
 .header__address {
   padding-top: 6px;
-  padding-left: 2px;
+  padding-left: 1px;
 }
 
 .address__item {
