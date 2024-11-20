@@ -164,7 +164,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 891px 35px 40px;
+  margin: 0px 0px 35px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -195,7 +195,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
   width: 334px;
-  max-height: 563px;
+  min-height: 563px;
   height: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -310,6 +310,10 @@ main {
   text-underline-position: under;
   list-style: none;
   font-size: 18px;
+}
+
+.footer__menu-link_active {
+text-decoration: none;
 }
 
 .footer__social-list {
