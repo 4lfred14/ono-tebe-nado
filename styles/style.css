@@ -55,7 +55,6 @@ main {
 }
 
 .address {
-  padding-top: 5px;
   font-style: normal;
 }
 
@@ -233,7 +232,7 @@ main {
   font-size: 20px;
   padding: 0px 40px 48px 40px;
   color: white;
-  line-height: 1.2;
+  line-height: 1.2Ы;
 }
 
 .lots__look-more-link {
