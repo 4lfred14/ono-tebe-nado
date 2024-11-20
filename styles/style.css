@@ -164,7 +164,7 @@ main {
 }
 
 .lots__heading {
-  padding: 2px 0px 34px 40px;
+  padding: 2px 0px 32px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -249,7 +249,7 @@ main {
   display: grid;
   grid-template-columns: 359px 1fr;
   width: 1052px;
-  margin: 0px 24px 178px 24px;
+  margin: 0px 24px 176px 24px;
 }
 
 .about__column {
@@ -290,7 +290,7 @@ main {
   gap: 25px;
   font-size: 20px;
   line-height: normal;
-  margin-top: 100px;
+  margin-top: 102px;
 }
 
 .footer__menu-section {
