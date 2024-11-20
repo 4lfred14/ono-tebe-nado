@@ -197,7 +197,6 @@ main {
   width: 334px;
   height: auto;
   min-height: 563px;
-  height: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -313,8 +312,8 @@ main {
   font-size: 18px;
 }
 
-.footer__menu-link_active{
-text-decoration: none;
+.footer__menu-link_active {
+  text-decoration: none;
 }
 
 .footer__social-list {
