@@ -55,7 +55,7 @@ main {
 }
 
 .address {
-  padding-top: 2.5px;
+  padding-top: 4px;
   font-style: normal;
 }
 
@@ -63,7 +63,7 @@ main {
   display: block;
   font-size: 18px;
   text-underline-position: under;
-  line-height: 1.35;
+  line-height: 1.3;
 }
 
 .address__address-text {
@@ -248,7 +248,7 @@ main {
 
 .about {
   display: grid;
-  grid-template-columns: 359px 1fr;
+  grid-template-columns: 365px 1fr;
   width: 1052px;
   margin: 0px 24px 178px 24px;
 }
