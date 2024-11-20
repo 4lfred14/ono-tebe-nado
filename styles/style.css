@@ -17,7 +17,7 @@ main {
 
 .header__links-list {
   display: flex;
-  gap: 34px;
+  gap: 32px;
   padding: 44px 37px 39px 25px;
 }
 
