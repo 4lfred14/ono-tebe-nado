@@ -160,6 +160,7 @@ main {
 
 .lots {
   width: 1052px;
+  min-height: ;
   margin: 0px 24px 146px 24px;
 }
 
@@ -231,7 +232,7 @@ main {
   text-decoration: none;
   z-index: 1;
   font-size: 20px;
-  padding: 0px 40px 48px 40px;
+  padding: 0px 40px 45px 40px;
   color: white;
   line-height: 1.22;
 }
