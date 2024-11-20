@@ -165,7 +165,7 @@ main {
 }
 
 .lots__heading {
-  margin: 0px 0px 35px 40px;
+  margin: 0px 0px 34px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -197,7 +197,6 @@ main {
   justify-content: space-between;
   width: 334px;
   min-height: 563px;
-  height: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -232,9 +231,9 @@ main {
   text-decoration: none;
   z-index: 1;
   font-size: 20px;
-  padding: 0px 40px 45px 40px;
+  padding: 0px 40px 48px 40px;
   color: white;
-  line-height: 1.22;
+  line-height: 1.2;
 }
 
 .lots__look-more-link {
