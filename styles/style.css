@@ -61,7 +61,8 @@ main {
 }
 
 .header__address {
-  padding-top: 5px;
+  padding-top: 6px;
+  padding-left: 2px;
 }
 
 .address__item {
